@@ -18,7 +18,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: 이것은 나의 연습용입니다. 
+  name: 이것은 나의 연습용입니다. 그리고 이건 초롯색 그래프를 위한겁니다. 최대한 초록색 그래프는 3개정도 로 ㅎㅎㅎㅎ
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: a category-centric theme
