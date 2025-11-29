@@ -18,7 +18,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: 이것은 나의 포트폴이오 지금은 연습용입키다. ㄶ
+  name: 이것은 나의 포트폴이오 지금은 연습용입키다. ㄶㄹㄹㅋㄹㅋㄹ
   picAlt: "catbook"
   job: a category-centric theme
   aboutme: true # comment this out if you don't need the 'about' page.
